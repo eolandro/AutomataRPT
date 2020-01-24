@@ -10,7 +10,7 @@ Sorry is Spanish.
 `$python3 getstr.py 8 E`
 
 Where:
-- '8' is number steps. Any Positive Integer > 0
-- 'E' means Draw game. It Can be 'R'  for Rock, 'P' for Paper, 'T' for scissors and 'E' Draw game.
+- **8** is number steps. Any Positive Integer > 0
+- **E** means Draw game. It Can be **R**  for Rock, **P** for Paper, **T** for scissors and **E** Draw game.
 
 By the way is pure python.
